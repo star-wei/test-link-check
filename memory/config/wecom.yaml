@@ -1,0 +1,13 @@
+# 企业微信配置
+# 创建时间: 2026-04-13
+
+wecom:
+  key: "aibbuAee0z6TTtaRGXjgbGkOTtK-kw1Ol7M"
+  secret: "kuBozEyYrQ72yONmQHi4RtQf52vY3tmzVobwKSNitmw"
+  
+  # Webhook 地址（如果是群机器人）
+  webhook_url: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=aibbuAee0z6TTtaRGXjgbGkOTtK-kw1Ol7M"
+  
+  # API 配置（如果是应用）
+  corp_id: null  # 如需应用方式，请提供
+  agent_id: null  # 如需应用方式，请提供

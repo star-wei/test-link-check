@@ -1,0 +1,811 @@
+{
+  "metadata": {
+    "version": "2025.1.6",
+    "total_factories": 10,
+    "factories": [
+      "凯研",
+      "绿盾",
+      "骏木金迈达",
+      "凯撒",
+      "恒固普瑞斯",
+      "金牌",
+      "极筑",
+      "美通",
+      "毅凯",
+      "加汇"
+    ],
+    "last_updated": "2025-01-06"
+  },
+  "factories": {
+    "凯研": {
+      "products": [
+        {
+          "category": "普通隔热窗",
+          "name": "平开窗",
+          "spec": 65,
+          "glass": "6+12+6",
+          "hardware": "科能",
+          "pack_thickness": "100",
+          "weight_kg_m2": 33,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "普通隔热窗",
+          "name": "",
+          "spec": "",
+          "glass": "6+12+6+12+6",
+          "hardware": "",
+          "pack_thickness": "",
+          "weight_kg_m2": 49.5,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "普通隔热窗",
+          "name": "外悬窗",
+          "spec": 65,
+          "glass": "6+12+6",
+          "hardware": "",
+          "pack_thickness": "100",
+          "weight_kg_m2": 34.5,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "普通隔热窗",
+          "name": "",
+          "spec": "",
+          "glass": "6+12+6+12+6",
+          "hardware": "",
+          "pack_thickness": "",
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "普通隔热窗",
+          "name": "固定窗",
+          "spec": 65,
+          "glass": "6+12+6",
+          "hardware": "/",
+          "pack_thickness": "90",
+          "weight_kg_m2": 30,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "普通隔热窗",
+          "name": "",
+          "spec": "",
+          "glass": "6+12+6+12+6",
+          "hardware": "/",
+          "pack_thickness": "",
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "普通隔热窗",
+          "name": "平开门",
+          "spec": 65,
+          "glass": "6+12+6",
+          "hardware": "",
+          "pack_thickness": "120",
+          "weight_kg_m2": 40,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "普通隔热窗",
+          "name": "平开门",
+          "spec": 65,
+          "glass": "6+12+6+12+6",
+          "hardware": "",
+          "pack_thickness": "120",
+          "weight_kg_m2": 55,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "幕墙固定窗",
+          "name": "固定窗",
+          "spec": "110系列",
+          "glass": "6+12+6",
+          "hardware": "/",
+          "pack_thickness": "140",
+          "weight_kg_m2": 36,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "隔热手摇窗",
+          "name": "手摇外开\\外悬窗",
+          "spec": 86,
+          "glass": "6+12+6",
+          "hardware": "国强\\立晟",
+          "pack_thickness": "150",
+          "weight_kg_m2": 36,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "隔热手摇窗",
+          "name": "手摇外开\\外悬窗",
+          "spec": "",
+          "glass": "6+12+6+12+6",
+          "hardware": "",
+          "pack_thickness": "",
+          "weight_kg_m2": 54,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "隔热手摇窗",
+          "name": "手摇固定窗",
+          "spec": "",
+          "glass": "6+12+6",
+          "hardware": "/",
+          "pack_thickness": "110",
+          "weight_kg_m2": 30,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "隔热手摇窗",
+          "name": "手摇固定窗",
+          "spec": "",
+          "glass": "6+12+6+12+6",
+          "hardware": "/",
+          "pack_thickness": "",
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "多轨提升推拉门",
+          "name": "双轨",
+          "spec": 160,
+          "glass": "上下轨道",
+          "hardware": "格屋",
+          "pack_thickness": "/",
+          "weight_kg_m2": null,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "多轨提升推拉门",
+          "name": "",
+          "spec": "",
+          "glass": "边框",
+          "hardware": "",
+          "pack_thickness": "/",
+          "weight_kg_m2": null,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "多轨提升推拉门",
+          "name": "三轨",
+          "spec": 236,
+          "glass": "上下轨道",
+          "hardware": "",
+          "pack_thickness": "/",
+          "weight_kg_m2": null,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "多轨提升推拉门",
+          "name": "",
+          "spec": "",
+          "glass": "边框",
+          "hardware": "",
+          "pack_thickness": "/",
+          "weight_kg_m2": null,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "多轨提升推拉门",
+          "name": "四轨",
+          "spec": 312,
+          "glass": "上下轨道",
+          "hardware": "",
+          "pack_thickness": "/",
+          "weight_kg_m2": null,
+          "weight_unit": "kg/㎡"
+        }
+      ],
+      "product_count": 18
+    },
+    "绿盾": {
+      "products": [
+        {
+          "category": "门窗系列",
+          "name": "门窗",
+          "spec": "70断桥铝系列",
+          "glass": "6+12+6",
+          "hardware": "/",
+          "pack_thickness": "120",
+          "weight_kg_m2": 44.0,
+          "weight_unit": "kg/㎡",
+          "notes": "绿盾包装厚度5CM，门扇厚度140MM(加20mm护角)"
+        },
+        {
+          "category": "门窗系列",
+          "name": "",
+          "spec": "",
+          "glass": "6+12+6+12+6",
+          "hardware": "",
+          "pack_thickness": "",
+          "weight_kg_m2": 50.0,
+          "weight_unit": "kg/㎡",
+          "notes": "绿盾包装厚度5CM，门扇厚度140MM(加20mm护角)"
+        },
+        {
+          "category": "门窗系列",
+          "name": "外悬窗",
+          "spec": "80窄边",
+          "glass": "6+12+6",
+          "hardware": "/",
+          "pack_thickness": "120",
+          "weight_kg_m2": 47.0,
+          "weight_unit": "kg/㎡",
+          "notes": "绿盾包装厚度5CM，门扇厚度140MM(加20mm护角)"
+        },
+        {
+          "category": "门窗系列",
+          "name": "",
+          "spec": "",
+          "glass": "6+12+6+12+6",
+          "hardware": "",
+          "pack_thickness": "",
+          "weight_kg_m2": 52.0,
+          "weight_unit": "kg/㎡",
+          "notes": "绿盾包装厚度5CM，门扇厚度140MM(加20mm护角)"
+        },
+        {
+          "category": "门窗系列",
+          "name": "幕墙",
+          "spec": 120,
+          "glass": "6+12+6",
+          "hardware": "/",
+          "pack_thickness": "框和玻璃分开包装\n包装问工厂，提前计算其他产品，好预估幕墙包装",
+          "weight_kg_m2": null,
+          "weight_unit": "kg/㎡",
+          "notes": "绿盾包装厚度5CM，门扇厚度140MM(加20mm护角)"
+        },
+        {
+          "category": "门窗系列",
+          "name": "",
+          "spec": "",
+          "glass": "6+12+6+12+6",
+          "hardware": "/",
+          "pack_thickness": "",
+          "weight_kg_m2": null,
+          "weight_unit": "kg/㎡",
+          "notes": "绿盾包装厚度5CM，门扇厚度140MM(加20mm护角)"
+        },
+        {
+          "category": "门窗系列",
+          "name": "提升推拉门",
+          "spec": "152系列",
+          "glass": "6+12+6",
+          "hardware": "/",
+          "pack_thickness": "门扇厚度140(加了20mm护角）*包装按90mm",
+          "weight_kg_m2": 44.0,
+          "weight_unit": "kg/㎡",
+          "notes": "绿盾包装厚度5CM，门扇厚度140MM(加20mm护角)"
+        }
+      ],
+      "product_count": 7
+    },
+    "骏木金迈达": {
+      "products": [
+        {
+          "category": "铝木系列",
+          "name": "开启",
+          "spec": "68实木",
+          "glass": "6+12+6",
+          "pack_thickness": 120,
+          "weight_kg_m2": 40,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "固定",
+          "spec": "",
+          "glass": "",
+          "pack_thickness": 100,
+          "weight_kg_m2": 35,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "开启",
+          "spec": "E80",
+          "glass": "6+12+6",
+          "pack_thickness": 130,
+          "weight_kg_m2": 40,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "固定",
+          "spec": "",
+          "glass": "6+12+6",
+          "pack_thickness": 115,
+          "weight_kg_m2": 35,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "开启",
+          "spec": 86,
+          "glass": "6+12+6",
+          "pack_thickness": 140,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "固定",
+          "spec": "",
+          "glass": "6+12+6",
+          "pack_thickness": 120,
+          "weight_kg_m2": 40,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "固定",
+          "spec": 163,
+          "glass": "6+12+6",
+          "pack_thickness": 210,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "开启",
+          "spec": "",
+          "glass": "5+9+5+9+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "开启",
+          "spec": 137,
+          "glass": "6+12+6",
+          "pack_thickness": 190,
+          "weight_kg_m2": 40,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+9+5+9+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "内平开门",
+          "spec": "E80",
+          "glass": "6+12+6",
+          "pack_thickness": 130,
+          "weight_kg_m2": 40,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "内开门",
+          "spec": 86,
+          "glass": "6+12+6",
+          "pack_thickness": 140,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "外开门",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": 160,
+          "weight_kg_m2": 55,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "推拉门扇",
+          "spec": "217/多轨",
+          "glass": "6+12+6",
+          "pack_thickness": 125,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "开启",
+          "spec": 102,
+          "glass": "6+12+6",
+          "pack_thickness": 135,
+          "weight_kg_m2": 40,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+9+5+9+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "固定",
+          "spec": "",
+          "glass": "6+12+6",
+          "pack_thickness": 135,
+          "weight_kg_m2": 35,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+9+5+9+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "平开门",
+          "spec": "",
+          "glass": "6+12+6",
+          "pack_thickness": 150,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+9+5+9+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "开启",
+          "spec": 103,
+          "glass": "6+12+6",
+          "pack_thickness": 135,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "固定",
+          "spec": "",
+          "glass": "6+12+6",
+          "pack_thickness": 135,
+          "weight_kg_m2": 40,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "内开门",
+          "spec": "",
+          "glass": "6+12+6",
+          "pack_thickness": 155,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 55,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "外开窗",
+          "spec": "E95",
+          "glass": "6+12+6",
+          "pack_thickness": 125,
+          "weight_kg_m2": 40,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "固定",
+          "spec": "",
+          "glass": "6+12+6",
+          "pack_thickness": null,
+          "weight_kg_m2": 35,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "外开窗",
+          "spec": "E120",
+          "glass": "6+12+6",
+          "pack_thickness": 150,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "固定",
+          "spec": "",
+          "glass": "6+12+6",
+          "pack_thickness": null,
+          "weight_kg_m2": 40,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "外开门",
+          "spec": "E95",
+          "glass": "6+12+6",
+          "pack_thickness": 145,
+          "weight_kg_m2": 40,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "E120",
+          "glass": "6+12+6",
+          "pack_thickness": 170,
+          "weight_kg_m2": 45,
+          "weight_unit": "kg/㎡"
+        },
+        {
+          "category": "铝木系列",
+          "name": "",
+          "spec": "",
+          "glass": "5+12+5+12+5",
+          "pack_thickness": null,
+          "weight_kg_m2": 50,
+          "weight_unit": "kg/㎡"
+        }
+      ],
+      "product_count": 44
+    },
+    "凯撒": {
+      "products": [
+        {
+          "category": "地弹门/装甲门",
+          "name": "地弹门",
+          "spec": "95系列",
+          "glass": "6+12+6",
+          "pack_thickness": "120",
+          "weight_kg_m2": 44.0,
+          "weight_unit": "kg/㎡",
+          "notes": "工厂地址:潍坊，工厂自包装订木箱"
+        },
+        {
+          "category": "地弹门/装甲门",
+          "name": "装甲门",
+          "spec": "",
+          "glass": "6+12+6+12+6",
+          "pack_thickness": "",
+          "weight_kg_m2": 47.0,
+          "weight_unit": "kg/㎡",
+          "notes": "工厂地址:潍坊，工厂自包装订木箱"
+        }
+      ],
+      "product_count": 2
+    },
+    "恒固普瑞斯": {
+      "products": [
+        {
+          "name": "折叠门",
+          "spec": "",
+          "notes": "数据待补充完整"
+        },
+        {
+          "name": "推拉窗",
+          "spec": "",
+          "notes": "数据待补充完整"
+        },
+        {
+          "name": "折叠窗",
+          "spec": "90S",
+          "notes": "数据待补充完整"
+        }
+      ],
+      "product_count": 3
+    },
+    "金牌": {
+      "products": [
+        {
+          "category": "车库门",
+          "name": "车库门",
+          "notes": "门洞2438*2438对应木箱3060*650*735；门洞2743*2438对应3360*650*765；门洞3048*2438对应3960*660*780；门洞4877*2438对应4995*740*750",
+          "factory_location": "广东深圳",
+          "packaging": "自己包装"
+        }
+      ],
+      "product_count": 1
+    },
+    "极筑": {
+      "products": [
+        {
+          "name": "室内窄边门",
+          "spec": "",
+          "notes": "数据待补充完整"
+        }
+      ],
+      "product_count": 1
+    },
+    "美通": {
+      "products": [
+        {
+          "category": "实木入户门",
+          "name": "实木入户门",
+          "calculation_rules": {
+            "with_glass": {
+              "weight": 36,
+              "unit": "kg/㎡"
+            },
+            "without_glass": {
+              "weight": 30,
+              "unit": "kg/㎡"
+            },
+            "frame": {
+              "weight_range": "35-40",
+              "unit": "kg/套"
+            },
+            "crate": {
+              "weight": 7.5,
+              "unit": "kg/㎡",
+              "structure": "六块板组成"
+            }
+          },
+          "factory_location": "天津"
+        }
+      ],
+      "product_count": 1
+    },
+    "毅凯": {
+      "products": [
+        {
+          "name": "铁艺门",
+          "spec": "",
+          "notes": "数据待补充完整"
+        }
+      ],
+      "product_count": 1
+    },
+    "加汇": {
+      "products": [],
+      "product_count": 0
+    }
+  },
+  "calculation_rules": {
+    "绿盾_152s推拉门": {
+      "door_sash_height": "总高度 - 96mm",
+      "double_sash_width": "总宽度 ÷ 2",
+      "triple_sash_width": "(总宽度 - 9) ÷ 3",
+      "quad_sash_width": "(总宽度 + 91) ÷ 4",
+      "frame_packaging": "长度+120mm, 宽度包完250mm, 高度包完230mm左右"
+    },
+    "凯研_包装规则": "所有系列产品宽度和高度包装厚度+30mm，安装翼尺寸另加",
+    "绿盾_包装": "5CM(50mm)",
+    "凯研_推拉门": "单位重量按kg/m计算(随长度尺寸变化)"
+  }
+}

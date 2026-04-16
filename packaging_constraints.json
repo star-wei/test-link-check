@@ -1,0 +1,30 @@
+{
+  "box_constraints": {
+    "c1_to_c30": {
+      "description": "无固定箱型 C1-C30",
+      "width": {
+        "min": 500,
+        "max": 1200,
+        "unit": "mm"
+      },
+      "height": {
+        "max": 2500,
+        "unit": "mm"
+      },
+      "length": {
+        "note": "基本不限",
+        "unit": "mm"
+      },
+      "total_weight": {
+        "max": 1500,
+        "unit": "kg"
+      }
+    }
+  },
+  "notes": [
+    "适用于铝箱/定制箱",
+    "长度方向基本不限，以实际运输条件为准",
+    "总重限制考虑叉车/吊装能力"
+  ],
+  "last_updated": "2025-04-15"
+}

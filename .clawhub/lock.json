@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "excel-xlsx": {
+      "version": "1.0.2",
+      "installedAt": 1776135479342
+    },
+    "pdf-extract": {
+      "version": "1.0.0",
+      "installedAt": 1776135489421
+    }
+  }
+}

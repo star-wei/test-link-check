@@ -1,0 +1,80 @@
+{
+  "schema": "acpx.session.v1",
+  "acpx_record_id": "agent:claude:acp:b3d25559-0c7b-437b-b56d-3d6b242494bc:oneshot:276553c9-e232-4df8-b373-b25131339a90",
+  "acp_session_id": "5090e5c3-17f9-4d38-ac07-9c69e98dc765",
+  "agent_command": "npx -y @agentclientprotocol/claude-agent-acp@^0.25.0",
+  "cwd": "/Users/doorwingroup/.openclaw/workspace",
+  "name": "agent:claude:acp:b3d25559-0c7b-437b-b56d-3d6b242494bc",
+  "created_at": "2026-04-13T08:00:48.128Z",
+  "last_used_at": "2026-04-13T08:00:50.305Z",
+  "last_seq": 0,
+  "last_request_id": "93f6e479-ce05-4669-bcd4-40060c9b357f",
+  "event_log": {
+    "active_path": "/Users/doorwingroup/.acpx/sessions/agent%3Aclaude%3Aacp%3Ab3d25559-0c7b-437b-b56d-3d6b242494bc%3Aoneshot%3A276553c9-e232-4df8-b373-b25131339a90.stream.ndjson",
+    "segment_count": 5,
+    "max_segment_bytes": 67108864,
+    "max_segments": 5,
+    "last_write_error": null
+  },
+  "closed": true,
+  "closed_at": "2026-04-13T08:00:50.433Z",
+  "pid": 3952,
+  "agent_started_at": "2026-04-13T08:00:48.511Z",
+  "last_prompt_at": "2026-04-13T08:00:50.274Z",
+  "protocol_version": 1,
+  "agent_capabilities": {
+    "_meta": {
+      "claudeCode": {
+        "promptQueueing": true
+      }
+    },
+    "promptCapabilities": {
+      "image": true,
+      "embeddedContext": true
+    },
+    "mcpCapabilities": {
+      "http": true,
+      "sse": true
+    },
+    "loadSession": true,
+    "sessionCapabilities": {
+      "fork": {},
+      "list": {},
+      "resume": {},
+      "close": {}
+    }
+  },
+  "title": null,
+  "messages": [
+    {
+      "User": {
+        "id": "59fe3ffc-32a7-4941-9724-3cbc3d049bd6",
+        "content": [
+          {
+            "Text": "[Mon 2026-04-13 16:00 GMT+8] 测试启动 - 请回复 \"Claude Code 已就绪\" 以及你的版本信息。"
+          }
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-04-13T08:00:50.276Z",
+  "cumulative_token_usage": {},
+  "request_token_usage": {},
+  "acpx": {
+    "available_commands": [
+      "update-config",
+      "debug",
+      "simplify",
+      "batch",
+      "loop",
+      "claude-api",
+      "compact",
+      "context",
+      "heapdump",
+      "init",
+      "review",
+      "security-review",
+      "insights"
+    ]
+  }
+}

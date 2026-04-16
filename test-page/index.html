@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>测试页面</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
+      color: #333;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    .card {
+      background: #fff;
+      width: 100%;
+      max-width: 400px;
+      padding: 40px 30px;
+      border-radius: 24px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.08);
+      text-align: center;
+    }
+    h1 { font-size: 28px; margin-bottom: 12px; }
+    p { color: #666; line-height: 1.6; margin-bottom: 24px; }
+    .btn {
+      display: inline-block;
+      padding: 12px 28px;
+      font-size: 15px;
+      color: #fff;
+      background: #d97706;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: transform .1s, background .2s;
+    }
+    .btn:active { transform: scale(0.98); background: #b45309; }
+    .time {
+      margin-top: 24px;
+      font-size: 13px;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>🎉 测试成功</h1>
+    <p>这是一个本地预览测试页面。<br>如果你能看到这段文字，说明 HTML 渲染和本地服务都正常工作。</p>
+    <button class="btn" onclick="alert('按钮点击正常！')">点我测试交互</button>
+    <div class="time" id="time"></div>
+  </div>
+  <script>
+    document.getElementById('time').textContent = '当前时间：' + new Date().toLocaleString('zh-CN');
+  </script>
+</body>
+</html>
